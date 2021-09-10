@@ -1,0 +1,4 @@
+# ShootingGameOfSquirrel
+
+「リスのシューティングゲーム」のUnityプロジェクト
+CloneしたディレクトリをUnityで開いてください
